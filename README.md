@@ -8,9 +8,12 @@ This project is my first Flutter application.Its a basic quiz app which displays
 
 To run this on your machine:
 > Make sure you have flutter  and Android virtual machine
+
 > flutter create project_name
+
 > copy the dart files from lib folder into yours
-> Make ysure in pubspec.yaml your version is same as mine to avoid null check
+
+> Make sure in pubspec.yaml your version is same as mine to avoid null check
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
